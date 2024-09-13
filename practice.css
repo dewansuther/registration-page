@@ -1,0 +1,62 @@
+h1{
+    font-size: 40px;
+    color: rgba(14, 14, 194, 0.781);
+    text-align: center;
+}
+.container{
+    width: 60%;
+    margin: auto;
+}
+
+h2{
+    font-size: 30px;
+    font-weight: 80px;
+}
+
+ul{
+    font-size: 20px;
+    list-style-image: url(./checkbox\ \(1\).png);
+}
+
+p{
+    font-size: 30px;
+    font-weight: 100px;
+}
+
+
+table{
+    width: 800px;
+    border-collapse: collapse;
+    
+}
+tr:hover{
+    background-color: rgb(213, 219, 219);
+}
+th{
+    background-color: rgba(21, 21, 206, 0.788);
+    font-size: 90%;
+}
+
+th,td{
+    padding: 7px 10px 10px 10px;
+}
+button{
+    color: white;
+    border: none;
+    height: 40px;
+    width: 200px;
+    background-color: rgb(33, 33, 180);
+  
+}
+
+.button{
+    display: flex;
+    justify-content: end;
+}
+.colorchange{
+    color: white;
+}
+.money{
+    font-weight: 700;
+    font-size: 20px;
+}
